@@ -13,7 +13,8 @@ Youtube playlist playwright tutorial
 ### Prerequisites
 - List any software needed (e.g., Node.js, Python, or a specific API key).
 - NodeJS
-- VSCODE
+- Javascript
+- VS code or any code editor
 - Git
 
 ### Installation
